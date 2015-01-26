@@ -25,7 +25,7 @@
     "lodash": "^2.4.1",
     "event-stream": "^3.1.7",
     "gulp-util": "^3.0.0",
-    "aws-sdk": "^2.0.14",
+    "aws-sdk": "2.1.7",
     "mime": "^1.2.11"
   },
   "devDependencies": {
